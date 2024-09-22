@@ -4,8 +4,8 @@ Build 🔨 Solve 🪄 Learn 😊
 
 <br/>
 
-![Twitter](https://img.shields.io/badge/Twitter-k26rahul-000000?style=for-the-badge&logo=x&logoColor=white)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-k26rahul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-k26rahul-000000?style=for-the-badge&logo=x&logoColor=white)
 
 # 💻 Tech Stack:
 
