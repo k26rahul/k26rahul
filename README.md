@@ -1,10 +1,10 @@
 # Hi 👋, I'm Rahul Maurya
 
-- 🔨 Build
-- ✅ Solve
-- 😊 Learn
+<p style="font-size: 5rem">🔨 Build</p>
+<p style="font-size: 5rem">✅ Solve</p>
+<p style="font-size: 5rem">😊 Learn</p>
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![Rahul Maurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=k26rahul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github&ring_color=0f0)
 <br/>
