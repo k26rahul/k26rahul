@@ -4,6 +4,7 @@ Build 🔨 Solve 🪄 Learn 😊
 
 <br/>
 
+![NPM](https://img.shields.io/badge/NPM-k26rahul-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-k26rahul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-k26rahul-000000?style=for-the-badge&logo=x&logoColor=white)
 
