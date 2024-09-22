@@ -1,8 +1,8 @@
 # Hi 👋, I'm Rahul Maurya
 
-<p style="font-size: 5rem">🔨 Build</p>
-<p style="font-size: 5rem">✅ Solve</p>
-<p style="font-size: 5rem">😊 Learn</p>
+<h1>🔨 Build</h1>
+<h1>✅ Solve</h1>
+<h1>😊 Learn</h1>
 
 # 💻 Tech Stack:
 
