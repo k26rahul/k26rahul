@@ -1,4 +1,4 @@
-# **Hi 👋, I'm Rahul Maurya**
+# Hi 👋, I'm Rahul Maurya
 
 <h1>🔨 Build</h1>
 <h1>✅ Solve</h1>
