@@ -6,7 +6,7 @@
 
 ![NPM](https://img.shields.io/badge/NPM-k26rahul-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-k26rahul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-k26rahul-000000?style=for-the-badge&logo=x&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-k26rahul-61DAFB?style=for-the-badge&logo=x&logoColor=white)
 
 ### 💻 Tech Stack:
 
@@ -41,7 +41,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-61DAFB?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 GitHub Stats:
 
