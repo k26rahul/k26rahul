@@ -10,15 +10,23 @@ I build full-stack web applications, train machine learning models, and understa
 
 ### ⚙️ Backend
 
-**Databases** - DBMS concepts, SQL, SQLite, PostgreSQL, SQLAlchemy (ORM)
+**Databases**
+- DBMS concepts, SQL, SQLite, PostgreSQL, SQLAlchemy (ORM)
 
-**Servers and APIs** - Flask, Jinja templating, CRUD APIs, JSON, CORS, forms, session and JWT authentication, database integration, background tasks with Celery and Redis, deployment on GitHub Pages and Railway
+**Servers and APIs**
+- Flask, Jinja templating, CRUD APIs, JSON, CORS, forms
+- Session and JWT authentication, database integration
+- Background tasks with Celery and Redis
+- Deployment on GitHub Pages and Railway
 
 ### 🎨 Frontend
 
-**HTML, CSS, JavaScript** - Advanced JS (event loop, async, ES modules, Fetch API), CSS layout with Grid and Flexbox, animations, clean and modern UI
+**HTML, CSS, JavaScript**
+- Advanced JS: event loop, async, ES modules, Fetch API
+- CSS layout with Grid and Flexbox, animations, clean and modern UI
 
-**Vue.js and Vite** - Vue components, Vue SFC, state management, Vite build tool
+**Vue.js and Vite**
+- Vue components, Vue SFC, state management, Vite build tool
 
 ---
 
@@ -26,15 +34,23 @@ I build full-stack web applications, train machine learning models, and understa
 
 ### 🔍 Data Analysis
 
-**NumPy, Pandas, CSV, Spreadsheets** - Data cleaning and filtering in Python, Google Sheets
+**NumPy, Pandas, CSV, Spreadsheets**
+- Data cleaning and filtering in Python, Google Sheets
 
-**Exploration and Visualization** - Descriptive statistics, correlation, outlier detection, trend and pattern analysis, charts and diagrams, Tableau, Power BI
+**Exploration and Visualization**
+- Descriptive statistics, correlation, outlier detection
+- Trend and pattern analysis, charts and diagrams
+- Tableau, Power BI
 
 ### 🤖 Model Building
 
-**Preprocessing and Feature Engineering** - Imputation, scaling, feature creation, handling class imbalance
+**Preprocessing and Feature Engineering**
+- Imputation, scaling, feature creation, handling class imbalance
 
-**Regression, Classification, Clustering** - Supervised and unsupervised learning, end-to-end preprocessing and training pipelines, handling text features like comments and reviews
+**Regression, Classification, Clustering**
+- Supervised and unsupervised learning
+- End-to-end preprocessing and training pipelines
+- Handling text features like comments and reviews
 
 ---
 
@@ -42,11 +58,17 @@ I build full-stack web applications, train machine learning models, and understa
 
 ### 🔗 Neural Networks
 
-**Fundamentals** - Partial derivatives, gradient descent, backpropagation, neurons, MLP
+**Fundamentals**
+- Partial derivatives, gradient descent, backpropagation, neurons, MLP
 
-**Tasks** - Regression and classification using MLP, image classification using CNNs (convolution, kernels), audio classification using librosa
+**Tasks**
+- Regression and classification using MLP
+- Image classification using CNNs (convolution, kernels)
+- Audio classification using librosa
 
-**Sequential Models** - RNNs (LSTM, GRU) for memory over sequences, Transformers and self-attention for understanding relationships across a full sequence
+**Sequential Models**
+- RNNs (LSTM, GRU) for memory over sequences
+- Transformers and self-attention for understanding relationships across a full sequence
 
 ### ✨ Generative AI
 
@@ -54,4 +76,6 @@ I build full-stack web applications, train machine learning models, and understa
 
 **Diffusion** - Denoising from random noise to structured output
 
-**Large Language Models** - Tokenization, embeddings, positional encoding, Transformer architecture, self-attention, next token prediction
+**Large Language Models**
+- Tokenization, embeddings, positional encoding
+- Transformer architecture, self-attention, next token prediction
